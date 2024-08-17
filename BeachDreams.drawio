@@ -1,0 +1,214 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="Y7np-kBNd3hdSedffoEY">
+    <mxGraphModel dx="1386" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FF66D6;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF66D6;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF66D6;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-3" target="nPmEDoJxbIrk_6-N6VVW-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FF66D6;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF66D6;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF66D6;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-3" target="nPmEDoJxbIrk_6-N6VVW-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-3" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Pink&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#FF66D6;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF66D6;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF66D6;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3.1496;shadow=1;glass=0;comic=0;strokeColor=#00aaff;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#54CCFF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#00AAFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-5" target="nPmEDoJxbIrk_6-N6VVW-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-5" value="Bold Beach Blue" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#00aaff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#54CCFF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#00AAFF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#aa00ff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#CF70FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#AA00FF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-6" target="nPmEDoJxbIrk_6-N6VVW-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-6" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Purple&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#aa00ff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#CF70FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#AA00FF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="260" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#ff00aa;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF5EBF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF00AA;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-8" target="nPmEDoJxbIrk_6-N6VVW-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#ff00aa;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF5EBF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF00AA;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-8" target="nPmEDoJxbIrk_6-N6VVW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-8" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Pink&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#ff00aa;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF5EBF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF00AA;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=1;labelBorderColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#77FF00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#BFFF5E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#77FF00;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-9" target="nPmEDoJxbIrk_6-N6VVW-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-9" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Green&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#77FF00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#BFFF5E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#77FF00;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="920" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FFBB00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFD45E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBB00;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-10" target="nPmEDoJxbIrk_6-N6VVW-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="70" />
+              <mxPoint x="890" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-10" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Orange&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#FFBB00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFD45E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBB00;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="700" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#54CCFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#82D5FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#54CCFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-11" target="nPmEDoJxbIrk_6-N6VVW-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-11" value="Creamy Beach Blue" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#54CCFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#82D5FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#54CCFF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#CF6EFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#DC96FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#D278FF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-12" target="nPmEDoJxbIrk_6-N6VVW-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-12" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Purple&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#CF6EFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#DC96FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#D278FF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FFBC70;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFC68C;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBC70;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-13" target="nPmEDoJxbIrk_6-N6VVW-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-13" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Orange&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#FFBC70;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFC68C;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBC70;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#A8FF5C;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#C3FF8F;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#A8FF5C;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-14" target="nPmEDoJxbIrk_6-N6VVW-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-14" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Green&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#A8FF5C;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#C3FF8F;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#A8FF5C;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FF66D6;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF66D6;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF66D6;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-25" target="nPmEDoJxbIrk_6-N6VVW-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="390" />
+              <mxPoint x="660" y="440" />
+              <mxPoint x="890" y="440" />
+              <mxPoint x="890" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-25" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Pink&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#FF66D6;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF66D6;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF66D6;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#54CCFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#82D5FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#54CCFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-26" target="nPmEDoJxbIrk_6-N6VVW-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#54CCFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#82D5FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#54CCFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-26" target="nPmEDoJxbIrk_6-N6VVW-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="390" />
+              <mxPoint x="230" y="440" />
+              <mxPoint x="450" y="440" />
+              <mxPoint x="450" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-26" value="Creamy Beach Blue" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#54CCFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#82D5FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#54CCFF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#CF6EFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#DC96FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#D278FF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-27" target="nPmEDoJxbIrk_6-N6VVW-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-27" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Purple&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#CF6EFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#DC96FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#D278FF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FFBC70;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFC68C;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBC70;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-28" target="nPmEDoJxbIrk_6-N6VVW-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="390" />
+              <mxPoint x="880" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-28" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Orange&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#FFBC70;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFC68C;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBC70;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#A8FF5C;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#C3FF8F;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#A8FF5C;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-29" target="nPmEDoJxbIrk_6-N6VVW-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-29" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Creamy Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Green&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#A8FF5C;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#C3FF8F;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#A8FF5C;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;fontStyle=1;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#00aaff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#54CCFF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#00AAFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-30" target="nPmEDoJxbIrk_6-N6VVW-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#00aaff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#54CCFF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#00AAFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-30" target="nPmEDoJxbIrk_6-N6VVW-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="150" />
+              <mxPoint x="230" y="200" />
+              <mxPoint x="450" y="200" />
+              <mxPoint x="450" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-30" value="Bold Beach Blue" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#00aaff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#54CCFF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#00AAFF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#aa00ff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#CF70FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#AA00FF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-31" target="nPmEDoJxbIrk_6-N6VVW-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-31" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Purple&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#aa00ff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#CF70FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#AA00FF;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="260" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#ff00aa;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF5EBF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF00AA;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-32" target="nPmEDoJxbIrk_6-N6VVW-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="150" />
+              <mxPoint x="660" y="200" />
+              <mxPoint x="890" y="200" />
+              <mxPoint x="890" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-32" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Pink&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#ff00aa;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF5EBF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF00AA;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=0;labelBorderColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="480" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#77FF00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#BFFF5E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#77FF00;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-33" target="nPmEDoJxbIrk_6-N6VVW-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-33" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Green&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#77FF00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#BFFF5E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#77FF00;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="920" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FFBB00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFD45E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBB00;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-34" target="nPmEDoJxbIrk_6-N6VVW-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="150" />
+              <mxPoint x="880" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-34" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bold Beach&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Orange&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;strokeColor=#FFBB00;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FFD45E;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FFBB00;labelBackgroundColor=none;fillColor=#FFFFFF;glass=0;textShadow=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="700" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#ff00aa;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF5EBF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF00AA;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-8" target="nPmEDoJxbIrk_6-N6VVW-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="55" />
+              <mxPoint x="660" y="20" />
+              <mxPoint x="460" y="20" />
+              <mxPoint x="460" y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-49" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=1;glass=0;comic=0;strokeColor=#00aaff;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#54CCFF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#00AAFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;glass=0;comic=0;strokeColor=#FF66D6;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#FF66D6;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#FF66D6;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="1" source="nPmEDoJxbIrk_6-N6VVW-3" target="nPmEDoJxbIrk_6-N6VVW-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="295" />
+              <mxPoint x="660" y="260" />
+              <mxPoint x="460" y="260" />
+              <mxPoint x="460" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPmEDoJxbIrk_6-N6VVW-65" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=1;glass=0;comic=0;strokeColor=#54CCFF;strokeWidth=3.1496;align=center;verticalAlign=middle;shadowOffsetX=0;shadowOffsetY=0;shadowBlur=5;shadowColor=#82D5FF;shadowOpacity=100;fontFamily=Helvetica;fontSize=13;fontColor=#54CCFF;fontStyle=1;labelBackgroundColor=none;fillColor=#FFFFFF;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gjKoiP2AgAfnpJkCR5IH-1" value="# Bold Beach&#xa;&#xa;&#xa;## Blue&#xa;- 00AAFF&#xa;- 54CCFF&#xa;&#xa;&#xa;## Purple&#xa;- AA00FF&#xa;- CF70FF&#xa;&#xa;&#xa;## Pink&#xa;- FF00AA&#xa;- FF5EBF&#xa;&#xa;&#xa;## Orange&#xa;- FFBB00&#xa;- FFD45E&#xa;&#xa;&#xa;## Green&#xa;- 77FF00&#xa;- ABFF61&#xa;&#xa;&#xa;# Creamy Beach&#xa;&#xa;&#xa;## Blue&#xa;- 54CCFF&#xa;- 82D5FF&#xa;&#xa;&#xa;## Purple&#xa;- D278FF&#xa;- DC96FF&#xa;&#xa;&#xa;## Pink&#xa;- FF66D6&#xa;- FF66D6&#xa;&#xa;&#xa;## Orange&#xa;- FFBC70&#xa;- FFC68C&#xa;&#xa;&#xa;## Green&#xa;- A8FF5C&#xa;- C3FF8F" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="40" width="140" height="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
