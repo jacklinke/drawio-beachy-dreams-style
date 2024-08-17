@@ -17,6 +17,10 @@ I present: the _**Beach Dreams**_ style for drawio. It comes in two neon flavors
 
 As always with neons, some colors will be less ideal for things like text or small details, so keep that in mind.
 
+## Using these Beachin' styles
+
+You can either download the [BeachDreams.drawio](https://github.com/jacklinke/drawio-beachy-dreams-style/raw/main/BeachDreams.drawio) file and open it with drawio (and simply copy/paste the styles), or use the directions below to manually add the style to your diagrams.
+
 ## Colors
 
 Here are the Colors to replicate. Open the Properties pane & set shadow x & y offsets to 0, shadow opacity to 100, and shadow blur to 5 to achieve the same look.
